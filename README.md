@@ -1,2 +1,2 @@
-# first-priject
+# first-project
 ## project notes
